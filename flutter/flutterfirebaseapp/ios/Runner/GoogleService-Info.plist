@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCJ2KC_CJcjLFAZYFfxwmo9KpR07xTTduw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>564938428115</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterfirebaseapp</string>
+	<key>PROJECT_ID</key>
+	<string>deneme-f13ec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>deneme-f13ec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:564938428115:ios:46ffe55e8dd2f961274e26</string>
+	<key>DATABASE_URL</key>
+	<string>https://deneme-f13ec-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

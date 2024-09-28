@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "564938428115",
+    "firebase_url": "https://deneme-f13ec-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "deneme-f13ec",
+    "storage_bucket": "deneme-f13ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564938428115:android:5d08c1c29c3ebdb1274e26",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPXSjx3CrSqoB5CGCuafHAiitE5VZlLmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
